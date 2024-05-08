@@ -1,0 +1,7 @@
+abc
+def
+
+gggg
+eee
+abcDef
+sameBeyondThisPoint
